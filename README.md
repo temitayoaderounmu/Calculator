@@ -10,7 +10,7 @@ With this setup, the calculator:
 - Handles **sign-magnitude decimal input** and displays results accordingly
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HU01fNl3dZZ5Zuo/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHo1enN0Zzhpa3dmZGdjMzBxYTc0bjNwZG96cjVibjQ0NGV6b25wMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7btObApReFdPILwk/giphy.gif"/>
 </p>
 
 ---
