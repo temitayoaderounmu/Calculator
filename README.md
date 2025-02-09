@@ -85,11 +85,6 @@ The calculator was tested using various sets of input values, including edge cas
 - **Overflow Handling**: LEDR9 successfully lit up for operations resulting in overflow
 - **Invalid Input**: The system displayed **[Er]** for invalid inputs, demonstrating error handling functionality
 
-<p align="center">
-  <img src="./images/results.png"/>
-</p>  
-<p align="center"><b>Figure 2: Testing Results on DE10-Lite FPGA Board</b></p>
-
 ---
 
 ## 🔧 How to Use
